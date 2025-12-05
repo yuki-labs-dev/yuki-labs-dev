@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Yuki 👋
 
-<!--
-**yuki-labs-dev/yuki-labs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bilingual Japanese/English data and IT learner exploring:
 
-Here are some ideas to get you started:
+- AI/NLP data annotation  
+- Python scripting & text processing  
+- Data cleaning and quality checks  
+- IT fundamentals & security basics  
+- Building hands-on projects for my portfolio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Current Projects
+- Python practice notebooks (DataCamp)
+- Text cleaning and preprocessing exercises
+- Japanese text annotation sample dataset
+- Exploring general IT and security-learning paths
+
+### 📘 Learning Goals
+- Strengthen Python and data cleaning skills
+- Build small, practical projects to grow my technical ability
+- Learn IT and security fundamentals
+- Support AI and NLP development with clear, consistent annotation work
+
+### 🌱 Always Improving
+I enjoy learning new technologies and documenting my progress.  
+Everything you see here is part of my learning journey — step by step.
+
+Thanks for visiting my page!
